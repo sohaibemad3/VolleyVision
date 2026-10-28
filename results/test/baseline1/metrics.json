@@ -1,0 +1,14 @@
+
+{
+  "baseline": "baseline1",
+  "model": "ResNet50",
+  "test_metrics": {
+    "accuracy": 77.7113,
+    "macro_f1": 78.41
+  },
+  "best_validation": {
+    "accuracy": 64.80,
+    "epoch": 25
+  }
+}
+

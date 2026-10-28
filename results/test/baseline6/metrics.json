@@ -1,0 +1,14 @@
+
+{
+  "baseline": "baseline6",
+  "model": "ResNet50 + Player LSTM",
+  "test_metrics": {
+    "accuracy": 85.8639,
+    "macro_f1": 82.6395
+  },
+  "best_validation": {
+    "accuracy": 84.00,
+    "epoch": 14
+  }
+}
+

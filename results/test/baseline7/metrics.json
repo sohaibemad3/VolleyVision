@@ -1,0 +1,16 @@
+
+{
+  "baseline": "baseline7",
+  "model": "ResNet50 + Player LSTM + Group LSTM",
+  "architecture": {
+    "team_split": false
+  },
+  "test_metrics": {
+    "accuracy": 84.5924,
+    "macro_f1": 81.8366
+  },
+  "best_validation": {
+    "accuracy": 83.00,
+    "epoch": 14
+  }
+}

@@ -1,0 +1,14 @@
+
+{
+  "baseline": "baseline5",
+  "model": "ResNet50 + Group LSTM",
+  "test_metrics": {
+    "accuracy": 84.4428,
+    "macro_f1": 80.7533
+  },
+  "best_validation": {
+    "accuracy": 82.70,
+    "epoch": 9
+  }
+}
+
